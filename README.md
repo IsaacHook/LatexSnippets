@@ -1,9 +1,7 @@
-LaTeX Snippets for Sublime
-==========================
+# Latex Snippets for Sublime 3
 
-About the Package
------------------
+Looking inside the contents of each snippet will tell you what the shortcut command is.
 
-Feel free to add your own snippets and send a pull request.
+Install by placing in sublme text 3 packages folder (I placed these in a folder called Latex Snippets).
 
-As LaTeX is, in Sublime's interpretation, rather text than code, one has to trigger auto-completion manually when typing. Alternatively, change the auto-completion mode in order to make the menu show when typing.
+On Mac this is under Library > Application Support > Sublime Text 3 > Packages > Latex Snippets
