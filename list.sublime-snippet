@@ -1,0 +1,10 @@
+<snippet>
+<content><![CDATA[
+\begin{easylist}[itemize]
+    &   ${1:}
+\end{easylist}
+]]></content>
+    <tabTrigger>list</tabTrigger>
+    <scope>text.tex.latex</scope>
+    <description>\begin{}…\end{}</description>
+</snippet>

@@ -1,0 +1,9 @@
+<snippet>
+<content><![CDATA[\\begin{enumerate}[label=(\alph*)]
+    \\item
+        ${1}
+\\end{enumerate}]]></content>
+    <tabTrigger>enal</tabTrigger>
+    <scope>text.tex.latex</scope>
+    <description>\begin{}…\end{}</description>
+</snippet>
